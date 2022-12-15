@@ -1,0 +1,56 @@
+.navbar-nav .feather{
+  width: 1.5rem !important;
+  height: 1.5rem !important;;
+}
+.dropdown-user .feather{
+  width: 16px !important;
+  height: 16px !important;;
+}
+
+.feather-x{
+  color: #02B8BF !important;
+}
+
+//.vgt-table thead th{
+//  background-color: #FFFFFF !important;
+//}
+.vgt-table thead th.sorting-asc button:after{
+  border-bottom: 5px solid #02B8BF !important;
+}
+.vgt-table.polar-bear thead th.sorting-asc, .vgt-table.polar-bear thead th.sorting-desc{
+  color: #02B8BF !important;
+}
+.vgt-wrap__footer .footer__navigation__page-btn .chevron.right::after{
+  border-left: 6px solid #02B8BF !important;
+}
+.vgt-wrap__footer .footer__navigation__page-btn .chevron.left::after{
+  border-right: 6px solid #02B8BF !important;
+}
+.vgt-table input[type='checkbox'] {
+  accent-color: red
+}
+.flatpickr-day.selected{
+  background-color: #02B8BF !important;
+  border-color: #02B8BF !important;
+}
+.flatpickr-day.today {
+  border-color: #02B8BF !important;
+}
+.field.is-dark .field-input{
+  background-color: #232d3f !important;
+}
+.datetimepicker.is-dark .pickers-container{
+  background-color: #232d3f !important;
+}
+.custom-button.is-dark.with-border{
+  background-color: #232d3f !important;
+}
+.custom-button.is-dark{
+  background-color: #232d3f !important;
+}
+.datepicker-container.is-dark span.datepicker-today{
+  background-color: #F15A1E !important;
+}
+.dark-layout .con-vs-loading{
+  background-color: rgba(35, 45, 63, 0.6) !important;
+}

@@ -1,0 +1,21 @@
+.content-login{
+  .input-password:focus{
+    outline: none !important;
+
+  }
+  .input-password{
+    border-right-style: none !important;
+  }
+
+  .input-group-text{
+    border-left-style: hidden !important;
+    border-radius: 0 !important;
+    border-top-right-radius: 0.25rem !important;
+    border-bottom-right-radius: 0.25rem !important;
+  }
+  .form-control.input-password{
+    border-radius: 0 !important;
+    border-top-left-radius: 0.25rem !important;
+    border-bottom-left-radius: 0.25rem !important;
+  }
+}
